@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 [![My Website](https://img.shields.io/badge/My%20Website-21759B?style=for-the-badge&logo=WordPress&logoColor=white)](https://enosistudio.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/voidstack)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contactenosistudio@gmail.com)
@@ -14,33 +14,31 @@ I'm a software developer and military professional, passionate about creating ap
 I enjoy working with Java, Unity, and many other technologies to build beautiful things with code, software, and whatever inspires me.
 </p>
 
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat-square&logo=inkscape&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat-square&logo=libreoffice&logoColor=white)
+![Google%20Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)
+
+</div>
+
 ---
 
 <a href="https://github.com/devxb/gitanimals">
   <img width="100%" src="https://render.gitanimals.org/farms/{voidstack}"/>
 </a>
-
-<p align="center">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
-</p>
-
-<p align="center">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-</p>
-
-<p align="center">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/blender/blender-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/libreoffice/libreoffice-ar21.svg">
-  <img width="12%" src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg">
-</p>
