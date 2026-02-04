@@ -18,7 +18,7 @@ I enjoy working with Java, Unity, and many other technologies to build beautiful
 
 <div align="center">
   
-| | Project | ⭐ Stars |
+| | Project | ⭐ |
 |:-:|:--------|:-------:|
 | ![](https://img.shields.io/badge/-C71A36?style=flat-square&logo=apache-maven&logoColor=white) | **[R for Maven](https://github.com/Voidstack/r-for-maven)** | ![](https://img.shields.io/github/stars/Voidstack/r-for-maven?style=flat-square&label=) |
 | ![](https://img.shields.io/badge/-C71A36?style=flat-square&logo=apache-maven&logoColor=white) | **[Docktailor](https://github.com/Voidstack/Docktailor)** | ![](https://img.shields.io/github/stars/Voidstack/Docktailor?style=flat-square&label=) |
