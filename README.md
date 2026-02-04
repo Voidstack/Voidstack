@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 <p align="center">
 Hi, I'm Voidstack 👋<br>
 I'm a software developer and military professional, passionate about creating apps, tools, and games.<br>
