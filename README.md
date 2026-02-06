@@ -21,7 +21,7 @@ I enjoy working with Java, Unity, and many other technologies to build beautiful
 | ![](https://img.shields.io/badge/-C71A36?style=flat-square&logo=apache-maven&logoColor=white) | **[R for Maven](https://github.com/Voidstack/r-for-maven)** | ![](https://img.shields.io/github/stars/Voidstack/r-for-maven?style=flat-square&label=) |
 | ![](https://img.shields.io/badge/-C71A36?style=flat-square&logo=apache-maven&logoColor=white) | **[Docktailor](https://github.com/Voidstack/Docktailor)** | ![](https://img.shields.io/github/stars/Voidstack/Docktailor?style=flat-square&label=) |
 | ![](https://img.shields.io/badge/-02303A?style=flat-square&logo=gradle&logoColor=white) | **[R for Gradle](https://github.com/Voidstack/r-for-gradle)** | ![](https://img.shields.io/github/stars/Voidstack/r-for-gradle?style=flat-square&label=) |
-| ![](https://img.shields.io/badge/-21759B?style=flat-square&logo=wordpress&logoColor=white) | **[Embedder For Unity](https://github.com/Voidstack/enosi-embedder-unity)** | ![](https://img.shields.io/github/stars/Voidstack/Embedder-For-Unity?style=flat-square&label=) |
+| ![](https://img.shields.io/badge/-21759B?style=flat-square&logo=wordpress&logoColor=white) | **[Embedder For Unity](https://github.com/Voidstack/enosi-embedder-unity)** | ![](https://img.shields.io/github/stars/Voidstack/enosi-embedder-unity?style=flat-square&label=) |
 
 </div>
 
